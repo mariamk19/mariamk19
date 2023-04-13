@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mariamk19
+- 💼 Currently a Legal Admin. for CELA at GitHub
 - 👀 I’m interested in web development, fraud, and criminal justice 
 - 🌱 Graduate of SheCodes Basics Workshop
 - 📫 You can contact me by email: mariamk1478@gmail.com
